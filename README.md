@@ -20,7 +20,7 @@ pip install beautifulsoup4
 5. Execute XmlParser.py
 
 ```bat
-Python XmkParser.py
+Python XmlParser.py
 ```
 
 ![Result](./images/beautifulsoup.gif)
